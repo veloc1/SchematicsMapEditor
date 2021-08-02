@@ -22,7 +22,7 @@ Main item is grid. Every cell is a dict with `objects` and `meta` keys.
 Available objects:
 
 * Room. Can be different size and color
-* Pass. Just vector2 with local room coordinates. [0, 0.5] coordinate - pass to the left in top-left corner. [size.x, size.y - 0.5] - pass to the right in bottom right corner
+* Pass. Just vector2 with local room coordinates. `[0, 0.5]` coordinate - pass to the left in top-left corner. `[size.x, size.y - 0.5]` - pass to the right in bottom right corner
 
 
 # TODOs?
